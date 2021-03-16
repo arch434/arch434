@@ -2,13 +2,13 @@
 <head>
 </head>
 <style>
-    <body> {
+body {
     background-image: https://arch434.github.io/img/434_gif.gif;
     background-repeat: repeat-y;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-}>
+}
     
     </style>
 <body>
