@@ -1,12 +1,16 @@
 <html>
 <head>
 </head>
-<body {
-    background-image:url('img/434_gif.gif');
+<style>
+    <body> {
+    background-image: https://arch434.github.io/img/434_gif.gif;
     background-repeat: repeat-y;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
 }>
+    
+    </style>
+<body>
 </body>
 </html>
